@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854708027691",
+    "firebase_url": "https://delenhomeebill-2d44c.firebaseio.com",
+    "project_id": "delenhomeebill-2d44c",
+    "storage_bucket": "delenhomeebill-2d44c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854708027691:android:44382a9c06ef63b3",
+        "android_client_info": {
+          "package_name": "com.hostelmanager.delenhome_e_bill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854708027691-avv940602kqd813rel24ju7rrhh1isoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hostelmanager.delenhome_e_bill",
+            "certificate_hash": "d69d86c1031f9c9744cbe626f533b19b3f35e5b8"
+          }
+        },
+        {
+          "client_id": "854708027691-0vjchkg3g8sv14ldjjmeguicg5cf6eo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNbF9HY3avna8ZHHERWZNJN1qkGal-fNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854708027691-0vjchkg3g8sv14ldjjmeguicg5cf6eo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
